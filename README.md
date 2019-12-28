@@ -30,8 +30,6 @@ __4.  CAUTION! MACROs are running all around__
 
 The excel sheet is running some MACROs to keep the calculations working and for reducing legwork. I give my word that they are totally harmless. So, please enable the MACROs in your excel.
 
-![](/README/5.jpg)
-
 __5.  APOLOGY! To full-access freaks! ;)__
 
 I am really sorry that everything is password protected. There’s nothing secret in the file. All formulas and equations are available at the right panel. There are many connected formulas in the spread sheet and passwords are only protecting the unity against unwanted changes. However, you may feel cheerful to know that unlocking and hacking into a protected excel file is not too easy! :)
@@ -44,4 +42,4 @@ __7.  Recommendation!__
 
 Office documents with files inserted into them are prone to corruption. You may keep a fresh copy of the spread sheet for emergencies ;)
 
-![]
+![](/README/5.jpg)
